@@ -1,0 +1,21 @@
+name: tic_tac_toe
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  confetti: ^0.7.0
+  flutter:
+    sdk: flutter
+  test: ^1.24.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
